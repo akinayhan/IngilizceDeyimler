@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ingilizce Deyimler</string>
+    <string name="sf2ingdeyim">Ingilizce Deyim</string>
+    <string name="sf2trdeyim">Türkçe Deyim</string>
+    <string name="sf2ingdeyim2">Ingilizce Deyim...</string>
+    <string name="sf2trdeyim2">Türkçe Deyim...</string>
+    <string name="sf1btnksafyaekle">Yeni Deyim Ekleme Sayfası</string>
+    <string name="sf1btnsayfalistele">Deyim Tahmin Sayfası</string>
+    <string name="sf3yenideyim">Yeni Rastgele Deyim</string>
+    <string name="sf3cevir">Çevirisini Göster</string>
+    <string name="s1bekle">Deyim Ekle</string>
+    <string name="s1blistele">Deyim Listele</string>
+    <string name="s1btahmin">Deyim Tahmini</string>
+</resources>
